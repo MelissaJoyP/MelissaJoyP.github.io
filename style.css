@@ -1,0 +1,60 @@
+*{background-color: rgb(188, 245, 188);}
+.pt-serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+h1 {
+    color: rgb(0, 0, 139);
+    text-align: center;
+    font-family: "PT Serif", serif;
+}
+h1:hover {
+    color: red;
+    text-align: center;
+    font-family: "PT Serif", serif;
+}
+h2{
+    float:right;
+    margin: 3em;
+}
+h2:hover{
+    float:right;
+    margin: 3em;
+    color: red;
+}
+h3{
+    text-align: center;
+}
+h3:hover{
+    text-align: center;
+    color:red;
+}
+#why {
+    background-color: rgb(204, 255, 255);
+    color:rgb(0, 0, 139);
+}
+.fun {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+.fun:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 139);
+    text-align: center;
+}
+.relax {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.relax:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+#prepare {
+    font-style: italic;
+    color:blue
+}
